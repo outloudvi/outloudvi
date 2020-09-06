@@ -3,6 +3,8 @@ Nyaa! 😺
 💚 FOSS advocator / 🕸 Web magic player / ☄️ Hoshiyomi (Have a look at [@suisei-cn](https://github.com/suisei-cn)!)
 
 ## Get in touch
+
+* 📧 Email: `hello+gh [at] outv.im`
 * 🐘 Mastodon: [@outvi@moe.cat](https://moe.cat/@outvi)
 * 💬 Telegram: [@outvi](https://t.me/outvi)
 * ✏️ Blog: [blog.outv.im](https://blog.outv.im)
