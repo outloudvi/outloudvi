@@ -9,7 +9,7 @@ Nyaa! 😺
 * 💬 Telegram: [@outvi](https://t.me/outvi)
 * ✏️ Blog: [blog.outv.im](https://blog.outv.im)
 
-<img align=right src="https://github-readme-stats.vercel.app/api?username=outloudvi&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align=right src="https://github-readme-stats.vercel.app/api?username=outloudvi&show_icons=true&theme=default" />
 
 ## Stuffs & Stats
 🔑 GPG: 0x7A95 4382 9E47 5D7D 3826 B08D **A725 CB57 CA65 CAFE**. [Public key](https://github.com/outloudvi/askme/blob/master/pubkey.asc).
