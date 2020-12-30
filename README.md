@@ -5,7 +5,7 @@ Nyaa! 😺
 ## Get in touch
 
 * 📧 Email: `hello+gh [at] outv.im`
-* 🐘 Mastodon: [@outvi@moe.cat](https://moe.cat/@outvi)
+* 🐘 Mastodon: [@ov@social.outv.im](https://social.outv.im/users/ov)
 * 💬 Telegram: [@outvi](https://t.me/outvi)
 * ✏️ Blog: [blog.outv.im](https://blog.outv.im)
 
