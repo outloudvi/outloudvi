@@ -8,6 +8,7 @@ Nyaa! 😺
 * 🐘 Mastodon: [@ov@social.outv.im](https://social.outv.im/users/ov)
 * 💬 Telegram: [@outvi](https://t.me/outvi)
 * ✏️ Blog: [blog.outv.im](https://blog.outv.im)
+* 🕊️ Warrant Canary: [canary.outv.im](https://canary.outv.im/) ([src](https://gitlab.com/outloudvi/canary))
 
 <img align=right src="https://github-readme-stats.vercel.app/api?username=outloudvi&show_icons=true&theme=default" />
 
