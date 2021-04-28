@@ -5,7 +5,7 @@ Nyaa! 😺
 ## Get in touch
 
 * 📧 Email: `hello+gh [at] outv.im`
-* 🐘 Mastodon: [@ov@social.outv.im](https://social.outv.im/users/ov)
+* 🦊 Pleroma: [@ov@social.outv.im](https://social.outv.im/users/ov)
 * 💬 Telegram: [@outvi](https://t.me/outvi)
 * ✏️ Blog: [blog.outv.im](https://blog.outv.im)
 * 🕊️ Warrant Canary: [canary.outv.im](https://canary.outv.im/) ([src](https://gitlab.com/outloudvi/canary))
