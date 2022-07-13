@@ -1,6 +1,6 @@
 Nyaa! 😺
 
-💚 FOSS advocator / 🕸 Web magic player / ☄️ Hoshiyomi (Have a look at [@suisei-cn](https://github.com/suisei-cn)!)
+💚 FOSS advocator / 🕸 Web magic player / ✨ Hoshimi Manager ([info-pride](https://github.com/outloudvi/info-pride))
 
 ## Get in touch
 
