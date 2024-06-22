@@ -1,6 +1,6 @@
 Nyaa! 😺
 
-💚 FOSS advocator / 🕸 Web magic player / ✨ Hoshimi Manager ([info-pride](https://github.com/outloudvi/info-pride)) / 🌟 [~~Dai Star~~](https://ganeid.outv.im/#wds)
+💚 FOSS advocator / 🕸 Web magic player / ✨ Hoshimi Manager ([info-pride](https://github.com/outloudvi/info-pride))
 
 ## Get in touch
 
