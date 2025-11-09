@@ -5,9 +5,9 @@ Nyaa! 😺
 ## Get in touch
 
 * 📧 Email: `hello+gh [at] outv.im`
-* 🌎 [Misskey](https://github.com/misskey-dev/misskey) / ActivityPub: [@ov@mk.outv.im](https://mk.outv.im/@ov)
-* 💬 Telegram: [@outvi](https://t.me/outvi)
+* 👋 About me: [outv.im](https://outv.im)
 * ✏️ Blog: [blog.outv.im](https://blog.outv.im)
+* 🌎 [Misskey](https://github.com/misskey-dev/misskey) / ActivityPub: [@ov@mk.outv.im](https://mk.outv.im/@ov)
 * 🕊️ Warrant Canary: [canary.outv.im](https://canary.outv.im/) ([src](https://gitlab.com/outloudvi/canary))
 
 ## Stuffs
