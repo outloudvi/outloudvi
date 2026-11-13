@@ -1,6 +1,6 @@
 Nyaa! 😺
 
-💚 FOSS advocator / 🕸 Web magic player / ✨ Hoshimi Manager ([info-pride](https://github.com/outloudvi/info-pride))
+💚 FOSS advocator / 🔍 Looking for interesting things to do / 🎵 Let's kontakt!
 
 ## Get in touch
 
